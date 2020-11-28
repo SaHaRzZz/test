@@ -1,6 +1,6 @@
 {
     "food": [
-        {"title": "ארז", "category": "אוכל", "img": "https://raw.githubusercontent.com/SaHaRzZz/test/main/AppleLogo.png", "filters": {}},
+        {"title": "אורז", "category": "אוכל", "img": "https://raw.githubusercontent.com/SaHaRzZz/test/main/AppleLogo.png", "filters": {}},
         {"title": "איטריות", "category": "אוכל", "img": "", "filters": {}},
         {"title": "אבקת אפייה", "category": "אוכל", "img": "", "filters": {}},
         {"title": "אבקת מרק עוף", "category": "אוכל", "img": "", "filters": {}},
