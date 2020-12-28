@@ -62,6 +62,7 @@
         {"title": "קפה", "category": "אוכל", "img": "60_400.png", "filters": {"sub": "כללי"}},
         {"title": "קוואקר", "category": "אוכל", "img": "61_400.png", "filters": {"sub": "כללי"}},
         {"title": "קטשופ", "category": "אוכל", "img": "62_400.png", "filters": {"sub": "כללי"}},
+        {"title": "קרקרים", "category": "אוכל", "img": "222_400.png", "filters": {"sub": "כללי"}},
         {"title": "ריבת תות", "category": "אוכל", "img": "63_400.png", "filters": {"sub": "כללי"}},
         {"title": "רסק עגבניות", "category": "אוכל", "img": "64_400.png", "filters": {"sub": "כללי"}},
         {"title": "תרכיז עגבניות", "category": "אוכל", "img": "65_400.png", "filters": {"sub": "כללי"}},
