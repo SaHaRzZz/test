@@ -72,6 +72,7 @@
         {"title": "שמנת חמוצה", "category": "אוכל", "img": "69_400.png", "filters": {"sub": "כללי"}},
         {"title": "שמנת מתוקה", "category": "אוכל", "img": "70_400.png", "filters": {"sub": "כללי"}},
         {"title": "שמן בישול", "category": "אוכל", "img": "71_400.png", "filters": {"sub": "כללי"}},
+        {"title": "שמן זית", "category": "אוכל", "img": "223_400.png", "filters": {"sub": "כללי"}},
         {"title": "תירס", "category": "אוכל", "img": "72_400.png", "filters": {"sub": "כללי"}},
         {"title": "תה", "category": "אוכל", "img": "73_400.png", "filters": {"sub": "כללי"}},
 
