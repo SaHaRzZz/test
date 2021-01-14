@@ -78,6 +78,9 @@
         {"title": "שתייה חריפה", "category": "אוכל", "order": "00", "img": "176_400.png", "filters": {"type": "פרווה"}},
         {"title": "תרכיז", "category": "אוכל", "order": "00", "img": "177_400.png", "filters": {"type": "פרווה"}},
         {"title": "פופקורן", "category": "אוכל", "order": "00", "img": "245_400.png", "filters": {"type": "פרווה"}},
+        {"title": "טופו", "category": "אוכל", "order": "00", "img": "248_400.png", "filters": {"type": "פרווה"}},
+        {"title": "רוטב טריאקי", "category": "אוכל", "order": "00", "img": "250_400.png", "filters": {"type": "פרווה"}},
+        {"title": "רוטב סויה", "category": "אוכל", "order": "00", "img": "249_400.png", "filters": {"type": "פרווה"}},
         
         {"title": "יוגורט", "category": "אוכל", "order": "01", "img": "233_400.png", "filters": {"type": "חלב"}},
         {"title": "גבינה בולגרית", "category": "אוכל", "order": "01", "img": "228_400.png", "filters": {"type": "חלב"}},
@@ -102,6 +105,7 @@
         {"title": "גלידה", "category": "אוכל", "order": "01", "img": "162_400.png", "filters": {"type": ["פרווה", "חלב"]}},
         {"title": "עוגות", "category": "אוכל", "order": "01", "img": "169_400.png", "filters": {"type": ["פרווה", "חלב"]}},
         {"title": "עוגיות", "category": "אוכל", "order": "01", "img": "170_400.png", "filters": {"type": ["פרווה", "חלב"]}},
+        {"title": "ממרח שוקולד", "category": "אוכל", "order": "01", "img": "251_400.png", "filters": {"type": ["פרווה", "חלב"]}},
 
         {"title": "עוף", "category": "אוכל", "order": "02", "img": "49_400.png", "filters": {"type": "בשר"}},
         {"title": "חזה עוף", "category": "אוכל", "order": "02", "img": "238_400.png", "filters": {"type": "בשר"}},
@@ -218,7 +222,7 @@
         {"title": "רדיד אלומיניום", "category": "אוכל", "order": "06", "img": "185_400.png", "filters": {"type": "אביזרים"}},
         {"title": "שקיות לסנדויצ'ים", "category": "אוכל", "order": "06", "img": "186_400.png", "filters": {"type": "אביזרים"}},
         {"title": "שקיות אשפה", "category": "אוכל", "order": "06", "img": "187_400.png", "filters": {"type": "אביזרים"}},
-        {"title": "תבניות לתנור", "category": "אוכל", "order": "06", "img": "188_400.png", "filters": {"type": "אביזרים"}},
+        {"title": "תבניות אלומיניום", "category": "אוכל", "order": "06", "img": "188_400.png", "filters": {"type": "אביזרים"}},
 
         {"title": "ג'ל לשיער", "category": "היגיינה", "order": "10", "img": "189_400.png", "filters": {"type": "אישי"}},
         {"title": "דאודורנט", "category": "היגיינה", "order": "10", "img": "190_400.png", "filters": {"type": "אישי"}},
