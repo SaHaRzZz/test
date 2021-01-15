@@ -1,21 +1,20 @@
 {
     "he": {
         "strings": [
-            "חיפוש לפי",
+            "סינון לפי",
             "שם מלא",
             "שם חלקי",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "חזרה להכנת רשימה",
+            "הכנת רשימה סופית",
+            "הדבק רשימה",
+            "העתק רשימה",
+            "העתק רשימה כטקסט",
+            "העתק רשימה כקוד",
+            "איפוס",
+            "הכל",
+            "אוכל",
+            "היגיינה",
+            "תינוק"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "food", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -281,6 +280,22 @@
         ]
     },
     "en": {
+        "strings": [
+            "Filter by",
+            "Full name",
+            "Partial Name",
+            "Back to list making",
+            "Make final list",
+            "Paste list",
+            "Copy list",
+            "Copy list as text",
+            "Copy list as code",
+            "Reset",
+            "Everything",
+            "Food",
+            "Hygiene",
+            "Baby"
+        ],
         "items": [
             {"title": "rice", "category": "food", "filter": "food", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
             {"title": "noodles", "category": "food", "filter": "food", "order": "00", "img": "2_400.png", "filters": {"type": "parve"}},
