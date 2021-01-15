@@ -18,7 +18,16 @@
             "הרשימה הועתקה",
             "הכניסו קוד רשימה",
             "קוד שגוי",
-            "לאפס את הרשימה"
+            "לאפס את הרשימה",
+            "טוען",
+            "פיצי",
+            "קטן",
+            "בינוני",
+            "גדול",
+            "ענק",
+            "גודל תמונות",
+            "גודל כותרות מוצר",
+            "כותרת לדוגמא"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -302,7 +311,16 @@
             "The list has been copied",
             "Enter list code",
             "Invalid code",
-            "Reset the list"
+            "Reset the list",
+            "Loading",
+            "Tiny",
+            "Small",
+            "Medium",
+            "Big",
+            "Huge",
+            "Picture size",
+            "Items' title size",
+            "Example title"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
