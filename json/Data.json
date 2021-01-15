@@ -26,7 +26,8 @@
             "ענק",
             "גודל תמונות",
             "גודל כותרות מוצר",
-            "כותרת לדוגמא"
+            "כותרת לדוגמא",
+            "הערה"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -318,7 +319,8 @@
             "Huge",
             "Picture size",
             "Items' title size",
-            "Example title"
+            "Example title",
+            "Note"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
