@@ -114,6 +114,7 @@
             {"title": "רוטב טריאקי", "category": "אוכל", "filter": "1", "order": "00", "img": "250_400.png", "filters": {"type": "פרווה"}},
             {"title": "רוטב סויה", "category": "אוכל", "filter": "1", "order": "00", "img": "249_400.png", "filters": {"type": "פרווה"}},
             {"title": "טורטייה", "category": "אוכל", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "פרווה"}},
+            {"title": "טבסקו", "category": "אוכל", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "פרווה"}},
             
             {"title": "יוגורט", "category": "אוכל", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "חלב"}},
             {"title": "גבינה בולגרית", "category": "אוכל", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "חלב"}},
@@ -409,6 +410,7 @@
             {"title": "teriyaki sauce", "category": "food", "filter": "1", "order": "00", "img": "250_400.png", "filters": {"type": "parve"}} ,
             {"title": "soy sauce", "category": "food", "filter": "1", "order": "00", "img": "249_400.png", "filters": {"type": "parve"}} ,
             {"title": "tortilla", "category": "food", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "parve"}},
+            {"title": "tabasco", "category": "אוכל", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "פרווה"}},
             
             {"title": "yogurt", "category": "food", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "milk"}},
             {"title": "bulgarian cheese", "category": "food", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "milk"}} ,
