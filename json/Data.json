@@ -29,7 +29,8 @@
             "כותרת לדוגמא",
             "הערה",
             "מחובר",
-            "לנתק את החיבור"
+            "לנתק את החיבור",
+            "חיבור אחרון"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -325,7 +326,8 @@
             "Example title",
             "Note",
             "Connected",
-            "Disconnect connection"
+            "Disconnect connection",
+            "Last connection"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
