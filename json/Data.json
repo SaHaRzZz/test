@@ -278,6 +278,7 @@
             {"title": "שמפו", "category": "היגיינה", "filter": "2", "order": "10", "img": "202_400.png", "filters": {"type": "אישי"}},
             {"title": "תחבושות", "category": "היגיינה", "filter": "2", "order": "10", "img": "203_400.png", "filters": {"type": "אישי"}},
             {"title": "טמפונים", "category": "היגיינה", "filter": "2", "order": "10", "img": "204_400.png", "filters": {"type": "אישי"}},
+            {"title": "קיסמי שיניים", "category": "היגיינה", "filter": "2", "order": "10", "img": "254_400.png", "filters": {"type": "אישי"}},
     
             {"title": "אקונומיקה", "category": "היגיינה", "filter": "2", "order": "11", "img": "205_400.png", "filters": {"type": "בית"}},
             {"title": "אבקת כביסה", "category": "היגיינה", "filter": "2", "order": "11", "img": "206_400.png", "filters": {"type": "בית"}},
@@ -575,7 +576,8 @@
             {"title": "shampoo", "category": "hygiene", "filter": "2", "order": "10", "img": "202_400.png", "filters": {"type": "personal"}},
             {"title": "bandages", "category": "hygiene", "filter": "2", "order": "10", "img": "203_400.png", "filters": {"type": "personal"}},
             {"title": "tampons", "category": "hygiene", "filter": "2", "order": "10", "img": "204_400.png", "filters": {"type": "personal"}},
-    
+            {"title": "toothpicks", "category": "hygiene", "filter": "2", "order": "10", "img": "254_400.png", "filters": {"type": "personal"}},
+
             {"title": "bleach", "category": "hygiene", "filter": "2", "order": "11", "img": "205_400.png", "filters": {"type": "home"}},
             {"title": "washing powder", "category": "hygiene", "filter": "2", "order": "11", "img": "206_400.png", "filters": {"type": "home"}} ,
             {"title": "dishwasher powder", "category": "hygiene", "filter": "2", "order": "11", "img": "207_400.png", "filters": {"type": "home"}} ,
