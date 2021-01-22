@@ -34,7 +34,9 @@
             "הערה",
             "מחובר",
             "לנתק את החיבור",
-            "חיבור אחרון"
+            "חיבור אחרון",
+            "עמוד הבא",
+            "עמוד קודם"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -334,7 +336,9 @@
             "Note",
             "Connected",
             "Disconnect connection",
-            "Last connection"
+            "Last connection",
+            "Next page",
+            "Previous page"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
