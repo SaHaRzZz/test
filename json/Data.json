@@ -1,6 +1,7 @@
 {
     "general": {
-        "server": "https://shoppinglistsaharserver.glitch.me"
+        "server": "https://shoppinglistsaharserver.glitch.me",
+        "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/"
     },
     "he": {
         "strings": [
