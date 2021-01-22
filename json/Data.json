@@ -146,6 +146,7 @@
             {"title": "עוגיות", "category": "אוכל", "filter": "1", "order": "01", "img": "170_400.png", "filters": {"type": ["פרווה", "חלב"]}},
             {"title": "ממרח שוקולד", "category": "אוכל", "filter": "1", "order": "01", "img": "251_400.png", "filters": {"type": ["פרווה", "חלב"]}},
             {"title": "עוגיות לוטוס", "category": "אוכל", "filter": "1", "order": "01", "img": "255_400.png", "filters": {"type": "פרווה"}},
+            {"title": "ממרח לוטוס", "category": "אוכל", "filter": "1", "order": "01", "img": "256_400.png", "filters": {"type": "פרווה"}},
     
             {"title": "עוף", "category": "אוכל", "filter": "1", "order": "02", "img": "49_400.png", "filters": {"type": "בשר"}},
             {"title": "חזה עוף", "category": "אוכל", "filter": "1", "order": "02", "img": "238_400.png", "filters": {"type": "בשר"}},
@@ -445,6 +446,7 @@
             {"title": "cookies", "category": "food", "filter": "1", "order": "01", "img": "170_400.png", "filters": {"type": ["parve", " milk"]}},
             {"title": "chocolate spread", "category": "food", "filter": "1", "order": "01", "img": "251_400.png", "filters": {"type": ["parve", "milk"]}},
             {"title": "lotus cookies", "category": "food", "filter": "1", "order": "01", "img": "255_400.png", "filters": {"type": "parve"}},
+            {"title": "lotus spread", "category": "food", "filter": "1", "order": "01", "img": "256_400.png", "filters": {"type": "parve"}},
     
             {"title": "chicken", "category": "food", "filter": "1", "order": "02", "img": "49_400.png", "filters": {"type": "meat"}},
             {"title": "chicken breast", "category": "food", "filter": "1", "order": "02", "img": "238_400.png", "filters": {"type": "meat"}} ,
