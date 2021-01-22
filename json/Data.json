@@ -1,4 +1,7 @@
 {
+    "general": {
+        "server": "https://shoppinglistsaharserver.glitch.me"
+    },
     "he": {
         "strings": [
             "סינון לפי",
