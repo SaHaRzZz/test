@@ -1,7 +1,8 @@
 {
     "general": {
         "server": "https://shoppinglistsaharserver.herokuapp.com",
-        "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/"
+        "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
+        "version": 7
     },
     "he": {
         "strings": [
