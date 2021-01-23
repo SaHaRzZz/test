@@ -39,7 +39,8 @@
             "עמוד הבא",
             "עמוד קודם",
             "גלול למעלה",
-            "כמות מוצרים בעמוד"
+            "כמות מוצרים בעמוד",
+            "יש עדכון חדש"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -343,7 +344,8 @@
             "Next page",
             "Previous page",
             "Scroll to the top",
-            "Products per page"
+            "Products per page",
+            "There's a new update"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
