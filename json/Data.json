@@ -2,7 +2,7 @@
     "general": {
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
-        "version": 7
+        "version": 8
     },
     "he": {
         "strings": [
