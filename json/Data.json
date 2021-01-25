@@ -43,6 +43,7 @@
             "יש עדכון חדש"
         ],
         "items": [
+            {"title": "אחר", "category": "אחר", "filter": "1", "order": "00", "img": "_400.png", "filters": {"type": "אחר"}},
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
             {"title": "איטריות", "category": "אוכל", "filter": "1", "order": "00", "img": "2_400.png", "filters": {"type": "פרווה"}},
             {"title": "אבקת אפייה", "category": "אוכל", "filter": "1", "order": "00", "img": "3_400.png", "filters": {"type": "פרווה"}},
@@ -126,6 +127,7 @@
             {"title": "רוטב סויה", "category": "אוכל", "filter": "1", "order": "00", "img": "249_400.png", "filters": {"type": "פרווה"}},
             {"title": "טורטייה", "category": "אוכל", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "פרווה"}},
             {"title": "טבסקו", "category": "אוכל", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "פרווה"}},
+            {"title": "שמרים יבשים", "category": "אוכל", "filter": "1", "order": "00", "img": "258_400.png", "filters": {"type": "פרווה"}},
             
             {"title": "יוגורט", "category": "אוכל", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "חלב"}},
             {"title": "גבינה בולגרית", "category": "אוכל", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "חלב"}},
@@ -301,6 +303,7 @@
             {"title": "מטהר אוויר", "category": "היגיינה", "filter": "2", "order": "11", "img": "214_400.png", "filters": {"type": "בית"}},
             {"title": "ספריי נגד חרקים", "category": "היגיינה", "filter": "2", "order": "11", "img": "215_400.png", "filters": {"type": "בית"}},
             {"title": "סמרטוטים חד\"פ", "category": "היגיינה", "filter": "2", "order": "11", "img": "216_400.png", "filters": {"type": "בית"}},
+            {"title": "מסיר כתמים", "category": "היגיינה", "filter": "2", "order": "11", "img": "257_400.png", "filters": {"type": "בית"}},
     
             {"title": "תחליף חלב", "category": "תינוק", "filter": "3", "order": "20", "img": "217_400.png", "filters": {"type": "כללי"}},
             {"title": "גרבר", "category": "תינוק", "filter": "3", "order": "20", "img": "218_400.png", "filters": {"type": "כללי"}},
@@ -348,6 +351,7 @@
             "There's a new update"
         ],
         "items": [
+            {"title": "other", "category": "other", "filter": "1", "order": "00", "img": "_400.png", "filters": {"type": "other"}},
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
             {"title": "noodles", "category": "food", "filter": "1", "order": "00", "img": "2_400.png", "filters": {"type": "parve"}},
             {"title": "baking powder", "category": "food", "filter": "1", "order": "00", "img": "3_400.png", "filters": {"type": "parve"}} ,
@@ -430,7 +434,8 @@
             {"title": "teriyaki sauce", "category": "food", "filter": "1", "order": "00", "img": "250_400.png", "filters": {"type": "parve"}} ,
             {"title": "soy sauce", "category": "food", "filter": "1", "order": "00", "img": "249_400.png", "filters": {"type": "parve"}} ,
             {"title": "tortilla", "category": "food", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "parve"}},
-            {"title": "tabasco", "category": "אוכל", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "parve"}},
+            {"title": "tabasco", "category": "food", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "parve"}},
+            {"title": "dry yeast", "category": "food", "filter": "1", "order": "00", "img": "258_400.png", "filters": {"type": "parve"}},
             
             {"title": "yogurt", "category": "food", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "milk"}},
             {"title": "bulgarian cheese", "category": "food", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "milk"}} ,
@@ -605,7 +610,8 @@
             {"title": "dish soap", "category": "hygiene", "filter": "2", "order": "11", "img": "213_400.png", "filters": {"type": "home"}} ,
             {"title": "air purifier", "category": "hygiene", "filter": "2", "order": "11", "img": "214_400.png", "filters": {"type": "home"}} ,
             {"title": "insect spray", "category": "hygiene", "filter": "2", "order": "11", "img": "215_400.png", "filters": {"type": "home"} },
-            {"title": "sharp rags", "category": "hygiene", "filter": "2", "order": "11", "img": "216_400.png", "filters": {"type": "home "}},
+            {"title": "disposable rags", "category": "hygiene", "filter": "2", "order": "11", "img": "216_400.png", "filters": {"type": "home"}},
+            {"title": "stain remover", "category": "hygiene", "filter": "2", "order": "11", "img": "257_400.png", "filters": {"type": "home"}},
     
             {"title": "milk substitute", "category": "baby", "filter": "3", "order": "20", "img": "217_400.png", "filters": {"type": "general"}} ,
             {"title": "gerber", "category": "baby", "filter": "3", "order": "20", "img": "218_400.png", "filters": {"type": "general"}},
