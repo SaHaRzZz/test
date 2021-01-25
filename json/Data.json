@@ -43,7 +43,7 @@
             "יש עדכון חדש"
         ],
         "items": [
-            {"title": "אחר", "category": "אחר", "filter": "1", "order": "00", "img": "_400.png", "filters": {"type": "אחר"}},
+            {"title": "אחר", "category": "אחר", "filter": "1", "order": "0", "img": "_400.png", "filters": {"type": "אחר"}},
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
             {"title": "איטריות", "category": "אוכל", "filter": "1", "order": "00", "img": "2_400.png", "filters": {"type": "פרווה"}},
             {"title": "אבקת אפייה", "category": "אוכל", "filter": "1", "order": "00", "img": "3_400.png", "filters": {"type": "פרווה"}},
@@ -351,7 +351,7 @@
             "There's a new update"
         ],
         "items": [
-            {"title": "other", "category": "other", "filter": "1", "order": "00", "img": "_400.png", "filters": {"type": "other"}},
+            {"title": "other", "category": "other", "filter": "1", "order": "0", "img": "_400.png", "filters": {"type": "other"}},
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
             {"title": "noodles", "category": "food", "filter": "1", "order": "00", "img": "2_400.png", "filters": {"type": "parve"}},
             {"title": "baking powder", "category": "food", "filter": "1", "order": "00", "img": "3_400.png", "filters": {"type": "parve"}} ,
