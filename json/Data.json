@@ -127,7 +127,11 @@
             {"title": "טורטייה", "category": "אוכל", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "פרווה"}},
             {"title": "טבסקו", "category": "אוכל", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "פרווה"}},
             {"title": "שמרים יבשים", "category": "אוכל", "filter": "1", "order": "00", "img": "258_400.png", "filters": {"type": "פרווה"}},
-            
+            {"title": "עוגיות לוטוס", "category": "אוכל", "filter": "1", "order": "00", "img": "255_400.png", "filters": {"type": "פרווה"}},
+            {"title": "ממרח לוטוס", "category": "אוכל", "filter": "1", "order": "00", "img": "256_400.png", "filters": {"type": "פרווה"}},
+            {"title": "פתיבר שוקולד", "category": "אוכל", "filter": "1", "order": "00", "img": "259_400.png", "filters": {"type": "פרווה"}},
+            {"title": "פתיבר וניל", "category": "אוכל", "filter": "1", "order": "00", "img": "260_400.png", "filters": {"type": "פרווה"}},
+
             {"title": "יוגורט", "category": "אוכל", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "חלב"}},
             {"title": "גבינה בולגרית", "category": "אוכל", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "חלב"}},
             {"title": "גבינה לבנה", "category": "אוכל", "filter": "1", "order": "01", "img": "11_400.png", "filters": {"type": "חלב"}},
@@ -152,8 +156,6 @@
             {"title": "עוגות", "category": "אוכל", "filter": "1", "order": "01", "img": "169_400.png", "filters": {"type": ["פרווה", "חלב"]}},
             {"title": "עוגיות", "category": "אוכל", "filter": "1", "order": "01", "img": "170_400.png", "filters": {"type": ["פרווה", "חלב"]}},
             {"title": "ממרח שוקולד", "category": "אוכל", "filter": "1", "order": "01", "img": "251_400.png", "filters": {"type": ["פרווה", "חלב"]}},
-            {"title": "עוגיות לוטוס", "category": "אוכל", "filter": "1", "order": "01", "img": "255_400.png", "filters": {"type": "פרווה"}},
-            {"title": "ממרח לוטוס", "category": "אוכל", "filter": "1", "order": "01", "img": "256_400.png", "filters": {"type": "פרווה"}},
     
             {"title": "עוף", "category": "אוכל", "filter": "1", "order": "02", "img": "49_400.png", "filters": {"type": "בשר"}},
             {"title": "חזה עוף", "category": "אוכל", "filter": "1", "order": "02", "img": "238_400.png", "filters": {"type": "בשר"}},
@@ -434,7 +436,11 @@
             {"title": "tortilla", "category": "food", "filter": "1", "order": "00", "img": "252_400.png", "filters": {"type": "parve"}},
             {"title": "tabasco", "category": "food", "filter": "1", "order": "00", "img": "253_400.png", "filters": {"type": "parve"}},
             {"title": "dry yeast", "category": "food", "filter": "1", "order": "00", "img": "258_400.png", "filters": {"type": "parve"}},
-            
+            {"title": "lotus cookies", "category": "food", "filter": "1", "order": "00", "img": "255_400.png", "filters": {"type": "parve"}},
+            {"title": "lotus spread", "category": "food", "filter": "1", "order": "00", "img": "256_400.png", "filters": {"type": "parve"}},
+            {"title": "choclate petit beurre", "category": "food", "filter": "1", "order": "00", "img": "259_400.png", "filters": {"type": "parve"}},
+            {"title": "vanilla petit beurre", "category": "food", "filter": "1", "order": "00", "img": "260_400.png", "filters": {"type": "parve"}},
+
             {"title": "yogurt", "category": "food", "filter": "1", "order": "01", "img": "233_400.png", "filters": {"type": "milk"}},
             {"title": "bulgarian cheese", "category": "food", "filter": "1", "order": "01", "img": "228_400.png", "filters": {"type": "milk"}} ,
             {"title": "white cheese", "category": "food", "filter": "1", "order": "01", "img": "11_400.png", "filters": {"type": "milk"}} ,
@@ -459,8 +465,6 @@
             {"title": "cakes", "category": "food", "filter": "1", "order": "01", "img": "169_400.png", "filters": {"type": ["parve", " milk"]}},
             {"title": "cookies", "category": "food", "filter": "1", "order": "01", "img": "170_400.png", "filters": {"type": ["parve", " milk"]}},
             {"title": "chocolate spread", "category": "food", "filter": "1", "order": "01", "img": "251_400.png", "filters": {"type": ["parve", "milk"]}},
-            {"title": "lotus cookies", "category": "food", "filter": "1", "order": "01", "img": "255_400.png", "filters": {"type": "parve"}},
-            {"title": "lotus spread", "category": "food", "filter": "1", "order": "01", "img": "256_400.png", "filters": {"type": "parve"}},
     
             {"title": "chicken", "category": "food", "filter": "1", "order": "02", "img": "49_400.png", "filters": {"type": "meat"}},
             {"title": "chicken breast", "category": "food", "filter": "1", "order": "02", "img": "238_400.png", "filters": {"type": "meat"}} ,
