@@ -44,7 +44,8 @@
             "יש עדכון חדש",
             "אין חיבור לאינטרנט",
             "החיבור כשל",
-            "הרשימה עוברת למצב לא מקוון"
+            "הרשימה עוברת למצב לא מקוון",
+            "יצירת רשימה מקוונת"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -356,7 +357,8 @@
             "There's a new update",
             "There's no connection to the internet",
             "The connection has failed",
-            "The list is in offline mode"
+            "The list is in offline mode",
+            "Create online list"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
