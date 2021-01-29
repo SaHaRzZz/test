@@ -44,7 +44,10 @@
             "יש עדכון חדש",
             "אין חיבור לאינטרנט",
             "החיבור כשל",
-            "הרשימה עוברת למצב לא מקוון"
+            "הרשימה עוברת למצב לא מקוון",
+            "קטגוריות, א-ת",
+            "פופולרי",
+            "חדש"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -356,7 +359,10 @@
             "There's a new update",
             "There's no connection to the internet",
             "The connection has failed",
-            "The list is in offline mode"
+            "The list is in offline mode",
+            "Categories, A-Z",
+            "Popular",
+            "New"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
