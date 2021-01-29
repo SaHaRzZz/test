@@ -3,7 +3,7 @@
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
-        "version": 9.1
+        "version": 10
     },
     "he": {
         "strings": [
