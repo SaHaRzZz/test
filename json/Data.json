@@ -3,7 +3,7 @@
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
-        "version": 10.1
+        "version": 10.2
     },
     "he": {
         "strings": [
@@ -45,7 +45,12 @@
             "אין חיבור לאינטרנט",
             "החיבור כשל",
             "הרשימה עוברת למצב לא מקוון",
-            "יצירת רשימה מקוונת"
+            "יצירת רשימה מקוונת",
+            "לאפס את המוצר",
+            "הערה ל",
+            "שנה",
+            "מחק",
+            "הכן הערה"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -344,7 +349,7 @@
             "Big",
             "Huge",
             "Picture size",
-            "Items' title size",
+            "products' title size",
             "Example title",
             "Note",
             "Connected",
@@ -358,7 +363,12 @@
             "There's no connection to the internet",
             "The connection has failed",
             "The list is in offline mode",
-            "Create online list"
+            "Create online list",
+            "Reset the product",
+            "Note for",
+            "Modify",
+            "Delete",
+            "create note"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
