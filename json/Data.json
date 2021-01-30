@@ -3,7 +3,7 @@
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
-        "version": 10.3
+        "version": 11
     },
     "he": {
         "strings": [
@@ -50,7 +50,8 @@
             "הערה ל",
             "שנה",
             "מחק",
-            "הכן הערה"
+            "הכן הערה",
+            "ליצור רשימה מקוונת"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -368,7 +369,8 @@
             "Note for ",
             "Modify",
             "Delete",
-            "create note"
+            "Create note",
+            "Create an online list"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
